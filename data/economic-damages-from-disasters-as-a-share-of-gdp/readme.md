@@ -1,6 +1,6 @@
 # Economic damages from disasters as a share of GDP - Data package
 
-This data package contains the data that powers the chart ["Economic damages from disasters as a share of GDP"](https://ourworldindata.org/explorers/natural-disasters?hideControls=false&Disaster+Type=All+disasters+%28by+type%29&Impact=Economic+damages+%28%25+GDP%29&Timespan=Annual&Per+capita=false&country=~PRT) on the Our World in Data website.
+This data package contains the data that powers the chart ["Economic damages from disasters as a share of GDP"](https://ourworldindata.org/explorers/natural-disasters?Disaster+Type=All+disasters+%28by+type%29&Impact=Economic+damages+%28%25+GDP%29&Timespan=Annual&Per+capita=false&country=~OWID_WRL) on the Our World in Data website.
 
 ## CSV Structure
 

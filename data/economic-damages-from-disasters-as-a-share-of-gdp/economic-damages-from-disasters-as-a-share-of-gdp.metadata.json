@@ -2,9 +2,9 @@
   "chart": {
     "title": "Economic damages from disasters as a share of GDP",
     "citation": "EM-DAT, CRED / UCLouvain (2025); National statistical organizations and central banks, OECD national accounts, and World Bank staff estimates (2025)",
-    "originalChartUrl": "https://ourworldindata.org/explorers/natural-disasters?hideControls=false&Disaster+Type=All+disasters+%28by+type%29&Impact=Economic+damages+%28%25+GDP%29&Timespan=Annual&Per+capita=false&country=~PRT",
+    "originalChartUrl": "https://ourworldindata.org/explorers/natural-disasters?Disaster+Type=All+disasters+%28by+type%29&Impact=Economic+damages+%28%25+GDP%29&Timespan=Annual&Per+capita=false&country=~OWID_WRL",
     "selection": [
-      "Portugal"
+      "World"
     ]
   },
   "columns": {
@@ -319,8 +319,6 @@
       "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1119721.metadata.json"
     }
   },
-  "dateDownloaded": "2026-03-15",
-  "activeFilters": {
-    "country": "~PRT"
-  }
+  "dateDownloaded": "2026-03-16",
+  "activeFilters": {}
 }
