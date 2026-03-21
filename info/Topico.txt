@@ -1,0 +1,22 @@
+Topic 2: Climate Change and Extreme Weather Events
+
+Research Question: How have the frequency and economic damage of extreme weather events changed over the past 50 years, and which world regions show the steepest acceleration?
+
+Data Sources:
+- EM-DAT International Disaster Database — emdat.be: Records of natural disasters worldwide since 1900, including death toll, affected population, and economic damage.
+- NOAA Global Surface Temperature Dataset — ncei.noaa.gov: Monthly global and regional
+temperature anomalies from 1880 to present.
+- Our World in Data — Natural Disasters — ourworldindata.org/natural-disasters: Cleaned, ready-touse CSVs derived from EM-DAT.
+
+Suggested Visualizations:
+. Choropleth comparing disaster frequency across two 25-year periods (1970–1995 vs. 1996–2024).
+. Area chart showing cumulative economic damage by disaster type over decades.
+. Scatter plot: temperature anomaly vs. number of extreme events per year.
+. Small multiples: trend lines for each disaster type (flood, storm, wildfire, drought).
+
+Guide for Students: Your IEEE article must explicitly state in the Discussion that correlation between temperature rise and disaster frequency does not imply direct causation — address confounding variables (better reporting systems, population growth in exposed areas). Cite IPCC Assessment Reports as foundational Related Work. The choropleth before/after comparison is a compelling IEEE opening figure. Be precise: separate economic damage from human casualties, as they tell different stories.
+
+Pitfalls and Ethics:
+Reporting bias: disasters in wealthy countries are better documented than in poorer ones.
+Do not conflate weather (short-term events) with climate (long-term patterns).
+Avoid implying causation from correlation in scatter plots — always add a caveat.

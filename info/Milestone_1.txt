@@ -1,0 +1,13 @@
+## Preparation for Class 7: Meta 1 Milestone
+
+Class 7 is a project work session. You will present your Meta 1 proposal to the class. To prepare, complete the following before the next session.
+
+Define your project research question in a single sentence. It must be specific and answerable with data.
+
+Find your dataset and confirm you can load it in Python using pandas.
+
+Build at least three exploratory charts to understand what your data contains.
+
+Prepare a written summary of one page covering: your research question, a description of your dataset (source, dimensions, key variables), three planned visualisation types with justification, and your chosen colour palette with reasoning from the principles studied in Class 4.
+
+Your Meta 1 presentation should itself follow the three-act structure: Act 1 establishes the problem your research addresses, Act 2 presents what the data suggests, and Act 3 outlines your analytical approach and planned visualisations.
