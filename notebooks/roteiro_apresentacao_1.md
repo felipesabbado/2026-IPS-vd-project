@@ -44,3 +44,8 @@
 - Fazer uma Análise Exploratória dos Dados com o objetivo de obter insights para criação dos gráficos.
 - Trabalhar os dados para agrupar por continentes (apenas 2 dataset já se encontram agrupados) escolhendo as métricas adequadas (média, mediana ou soma) para cada caso.
 
+
+## Referências Bibliográficas
+
+- Ferreira, S. (2024). Extreme Weather Events and Climate Change: Economic Impacts and Adaptation Policies. Annual Review Of Resource Economics, 16(1), 207-231. https://doi.org/10.1146/annurev-resource-101623-095314
+- Clarke, B., Otto, F., Stuart-Smith, R., & Harrington, L. (2022). Extreme weather impacts of climate change: an attribution perspective. Environmental Research Climate, 1(1), 012001. https://doi.org/10.1088/2752-5295/ac6e7d
