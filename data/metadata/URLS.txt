@@ -1,0 +1,8 @@
+https://ourworldindata.org/search?topics=Climate+Change&resultType=all
+
+https://ourworldindata.org/temperature-anomaly
+ - Monthly temperature anomalies
+ - Temperature anomalies by month, World
+
+https://ourworldindata.org/natural-disasters
+ - Number of deaths from natural disasters, World
