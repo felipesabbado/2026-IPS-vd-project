@@ -6,3 +6,6 @@ https://ourworldindata.org/temperature-anomaly
 
 https://ourworldindata.org/natural-disasters
  - Number of deaths from natural disasters, World
+
+https://www.emdat.be/
+ - The International Disaster Database
