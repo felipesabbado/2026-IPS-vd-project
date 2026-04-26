@@ -20,3 +20,18 @@ Pitfalls and Ethics:
 Reporting bias: disasters in wealthy countries are better documented than in poorer ones.
 Do not conflate weather (short-term events) with climate (long-term patterns).
 Avoid implying causation from correlation in scatter plots — always add a caveat.
+
+------------------------------------------------------------------------------------------------------
+
+Orientação para o projeto
+
+Decisões gerais:
+- Eventos extremos: Droughts, Floods, Storms, Extreme Temperatures, Wildfires (mais representativos e mais ligados às mudanças climáticas)
+
+- Período temporal: 1975 a 2024 (50 anos). Comparar dois perídos de 25 anos (1975 a 1999 e 2000 a 2024)
+
+- Área geográfica: Divisão em continentes - África, Ásia, Europa, América do Norte, América do Sul e Oceania.
+
+- Gases do efeito estufa (greenhouse gases): CO2, Metano e Óxido Nitroso.
+
+Objetivo: Mostrar se as alterações climáticas observadas no período temporal determinado seguem uma mesma tendência e se estão correlacionadas com o número de mortes e os prejuízos causados pelos eventos climáticos extremos
